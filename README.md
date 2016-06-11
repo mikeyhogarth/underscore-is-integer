@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mikeyhogarth/underscore-is-integer.svg?branch=travis-integration)](https://travis-ci.org/mikeyhogarth/underscore-is-integer)
+
 # Underscore isInteger
 Underscore mixin for checking a variable represents a whole number.
 
