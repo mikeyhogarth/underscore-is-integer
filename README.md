@@ -8,6 +8,7 @@ Underscore mixin for checking a variable represents a whole number.
 [![Test Coverage](https://codeclimate.com/github/mikeyhogarth/underscore-is-integer/badges/coverage.svg)](https://codeclimate.com/github/mikeyhogarth/underscore-is-integer/coverage)
 
 ## Getting Started
+Install via npm or download from github, then;
 
 In the browser;
 ```html5
@@ -26,6 +27,10 @@ _.isInteger(1)   // true
 _.isInteger(1.1) // false
 ```
 See tests for further examples.
+
+## TODO
+
+* Bower integration
 
 ## Contributing
 
