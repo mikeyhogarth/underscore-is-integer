@@ -1,3 +1,10 @@
 language: node_js
+
+script: 'npm run test:coverage'
+
 node_js:
   - "6"
+
+addons:
+  code_climate:
+    repo_token: 82e5eaa2be64b910a27e8eb2d0c50ff30ec02d1156937f7096f9f14087227fe6
