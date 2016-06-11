@@ -8,7 +8,7 @@ Underscore mixin for checking a variable represents a whole number.
 In the browser;
 ```html5
 <script src = "path/to/underscore-min.js" type = "text/javascript"></script>
-<script src = "path/to/underscore.isInteger.js"></script>
+<script src = "path/to/underscore.isInteger.min.js"></script>
 ```
 In Node;
 ```javascript
