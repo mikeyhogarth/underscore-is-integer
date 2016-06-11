@@ -5,6 +5,7 @@ Underscore mixin for checking a variable represents a whole number.
 [![npm version](https://badge.fury.io/js/underscore-is-integer.svg)](https://badge.fury.io/js/underscore-is-integer)
 [![Code Climate](https://codeclimate.com/github/mikeyhogarth/underscore-is-integer/badges/gpa.svg)](https://codeclimate.com/github/mikeyhogarth/underscore-is-integer)
 [![Build Status](https://travis-ci.org/mikeyhogarth/underscore-is-integer.svg?branch=master)](https://travis-ci.org/mikeyhogarth/underscore-is-integer)
+[![Test Coverage](https://codeclimate.com/github/mikeyhogarth/underscore-is-integer/badges/coverage.svg)](https://codeclimate.com/github/mikeyhogarth/underscore-is-integer/coverage)
 
 ## Getting Started
 
