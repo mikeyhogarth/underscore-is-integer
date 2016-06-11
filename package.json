@@ -19,6 +19,8 @@
   "homepage": "https://github.com/mikeyhogarth/underscore-is-integer#readme",
   "devDependencies": {
     "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1",
     "mocha": "^2.5.3"
   },
   "dependencies": {
