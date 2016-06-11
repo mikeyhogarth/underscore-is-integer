@@ -1,0 +1,27 @@
+{
+  "name": "underscore-is-integer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/underscoreIsInteger.js",
+    "test:watch": "npm run test -- -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeyhogarth/underscore-is-integer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeyhogarth/underscore-is-integer/issues"
+  },
+  "homepage": "https://github.com/mikeyhogarth/underscore-is-integer#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
